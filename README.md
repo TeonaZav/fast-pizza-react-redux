@@ -1,6 +1,6 @@
 # Fast-pizza
 
-- Live URL (https://babeljs.io/) for Fast Refresh
+- Live URL (https://fast-pizza-react-redux.vercel.app/menu)
 
 ## Built with
 
