@@ -1,6 +1,6 @@
 # Fast-pizza
 
-- Live URL (https://fast-pizza-react-redux.vercel.app/menu)
+- Live URL (https://fast-pizza-react-redux.vercel.app)
 
 ## Built with
 
